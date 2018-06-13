@@ -1,0 +1,79 @@
+[27-Dec-2017 09:09:14 UTC] PHP Parse error:  syntax error, unexpected ''first_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/ovejobs/public_html/application/controllers/Connect_Facebook_Controller.php on line 27
+[16-Apr-2018 13:25:45 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 15
+[16-Apr-2018 13:25:54 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 15
+[16-Apr-2018 13:29:58 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:31:10 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:31:12 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:32:11 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:32:14 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:32:17 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:33:21 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:34:05 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:34:12 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:34:15 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:34:18 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:34:22 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:35:06 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:35:12 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:37:13 Asia/Kolkata] PHP Fatal error:  Call to a member function GetCartItems() on a non-object in /home/appdrawi/public_html/xyz/application/views/website/include/navigation.php on line 743
+[16-Apr-2018 13:37:49 Asia/Kolkata] PHP Fatal error:  Call to a member function GetCartItems() on a non-object in /home/appdrawi/public_html/xyz/application/views/website/include/navigation.php on line 743
+[16-Apr-2018 13:37:57 Asia/Kolkata] PHP Fatal error:  Call to a member function GetCartItems() on a non-object in /home/appdrawi/public_html/xyz/application/views/website/include/navigation.php on line 743
+[16-Apr-2018 13:38:06 Asia/Kolkata] PHP Fatal error:  Call to a member function GetCartItems() on a non-object in /home/appdrawi/public_html/xyz/application/views/website/include/navigation.php on line 743
+[16-Apr-2018 13:38:29 Asia/Kolkata] PHP Fatal error:  Call to a member function GetCartItems() on a non-object in /home/appdrawi/public_html/xyz/application/views/website/include/navigation.php on line 743
+[16-Apr-2018 13:39:07 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 29
+[16-Apr-2018 13:42:08 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:42:33 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:42:38 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:43:31 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:44:42 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:44:45 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:44:46 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:44:48 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:45:40 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[16-Apr-2018 13:50:34 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/CartModel.php on line 13
+[26-Apr-2018 22:57:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method OrderModel::OrderDetails() in /home/appdrawi/public_html/xyz/application/controllers/OrdersController.php on line 246
+[26-Apr-2018 23:09:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/appdrawi/public_html/xyz/application/controllers/OrdersController.php on line 256
+[26-Apr-2018 23:10:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/appdrawi/public_html/xyz/application/controllers/OrdersController.php on line 256
+[26-Apr-2018 23:10:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/appdrawi/public_html/xyz/application/controllers/OrdersController.php on line 256
+[26-Apr-2018 23:11:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/appdrawi/public_html/xyz/application/controllers/OrdersController.php on line 256
+[02-May-2018 18:31:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appdrawi/public_html/xyz/application/controllers/ProductController.php on line 117
+[03-May-2018 10:47:28 Asia/Kolkata] PHP Fatal error:  Call to a member function SaleProducts() on a non-object in /home/appdrawi/public_html/xyz/application/controllers/ProductController.php on line 489
+[03-May-2018 11:32:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/appdrawi/public_html/xyz/application/controllers/ProductController.php on line 515
+[03-May-2018 11:33:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/appdrawi/public_html/xyz/application/controllers/ProductController.php on line 515
+[07-May-2018 00:05:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method OrderModel::GetOrderHistory() in /home/appdrawi/public_html/xyz/application/controllers/v/TrackOrderController.php on line 15
+[07-May-2018 20:47:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method OrderModel::GetOrderHistory() in /home/appdrawi/public_html/xyz/application/controllers/v/TrackOrderController.php on line 15
+[07-May-2018 23:10:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method OrderModel::GetOrderHistory() in /home/appdrawi/public_html/xyz/application/controllers/v/TrackOrderController.php on line 15
+[08-May-2018 17:23:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/appdrawi/public_html/xyz/application/controllers/v/ProductOrderController.php on line 138
+[15-May-2018 13:25:40 Asia/Kolkata] PHP Fatal error:  Call to undefined method OrderModel::GetOrderHistory() in /home/appdrawi/public_html/xyz/application/controllers/v/TrackOrderController.php on line 15
+[16-May-2018 16:47:12 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:47:15 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:47:17 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:47:18 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:47:39 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:48:10 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:48:44 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:48:50 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:48:53 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 16:49:01 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/models/ProductModel.php on line 874
+[16-May-2018 17:03:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 213
+[16-May-2018 17:04:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 238
+[16-May-2018 20:29:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 92
+[16-May-2018 20:30:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting function (T_FUNCTION) in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 92
+[17-May-2018 11:12:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'publi' (T_STRING), expecting function (T_FUNCTION) in /home/appdrawi/public_html/xyz/application/controllers/s/ChatController.php on line 170
+[17-May-2018 12:09:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''./uploads/attac' (T_ENCAPSED_AND_WHITESPACE) in /home/appdrawi/public_html/xyz/application/controllers/s/ChatController.php on line 88
+[17-May-2018 12:13:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''./uploads/attac' (T_ENCAPSED_AND_WHITESPACE) in /home/appdrawi/public_html/xyz/application/controllers/s/ChatController.php on line 88
+[17-May-2018 17:43:41 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/views/website/shop/index_shop.php on line 409
+[17-May-2018 17:43:42 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/views/website/shop/index_shop.php on line 409
+[17-May-2018 20:05:56 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 69
+[17-May-2018 20:05:58 Asia/Kolkata] PHP Fatal error:  Can't use method return value in write context in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 69
+[18-May-2018 10:50:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 22
+[18-May-2018 10:50:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 22
+[21-May-2018 11:15:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appdrawi/public_html/xyz/application/controllers/ProductBrandsController.php on line 37
+[21-May-2018 11:15:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appdrawi/public_html/xyz/application/controllers/ProductBrandsController.php on line 37
+[21-May-2018 11:16:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appdrawi/public_html/xyz/application/controllers/ProductBrandsController.php on line 37
+[21-May-2018 11:16:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appdrawi/public_html/xyz/application/controllers/ProductBrandsController.php on line 37
+[21-May-2018 11:23:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 304
+[21-May-2018 11:23:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 304
+[21-May-2018 15:01:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''produc' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 92
+[21-May-2018 15:01:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/appdrawi/public_html/xyz/application/controllers/v/ShopPageController.php on line 326
+[21-May-2018 16:54:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/appdrawi/public_html/xyz/application/views/website/shop/index_shop.php on line 405

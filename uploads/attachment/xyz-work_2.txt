@@ -1,0 +1,10 @@
+1: Add to cart
+2: cart list
+3: add to wishlist
+4: remove wishlist item
+5: update cart item quantity
+6: remove cart items
+7: single-product
+8: single-product page related product listing
+9: Product coupon code
+10 : Checkout page
